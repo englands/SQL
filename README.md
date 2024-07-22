@@ -1,7 +1,7 @@
 # SQL Repository
 <picture>
   <source srcset="SQL-icon-white.svg" media="(prefers-color-scheme: light)">
-  <img src="SQL-icon-black.svg" width="70" alt="Your logo description">
+  <img src="SQL-icon-black.svg" width=70 align=right alt="Your logo description">
 </picture>
 
 
