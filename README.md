@@ -1,3 +1,3 @@
 # SQL Repository <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/englands/SQL/blob/main/SQL-icon-black.svg" alt="SQL Icon by meaicon on Flaticon" width=70 align=right>  <source media="(prefers-color-scheme: light)" srcset="https://github.com/englands/SQL/blob/main/SQL-icon-white.svg" alt="SQL Icon by meaicon on Flaticon" width=70 align=right>  <img alt="SQL Icon by meaicon on Flaticon." > </picture>
 
-This repository demonstrates my learning journey with Structured Query Language (SQL).
+This repository demonstrates my learning journey with Structured Query Language (SQL). I first learned about SQL through my Database Administration and Design course while enrolled at the University of South Florida during my undergraduate degree. I loved learning about it so much that I have been inspired to continue my learning, create projects, and hopefully earn professional certifications. 
