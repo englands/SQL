@@ -1,3 +1,3 @@
-# SQL Repository <img src="https://github.com/englands/SQL/blob/main/SQL-icon-black.svg" alt="SQL Icon by meaicon on Flaticon" width=70 align=right prefers-color-scheme: light> <img src="https://github.com/englands/SQL/blob/main/SQL-icon-white.svg" alt="SQL Icon by meaicon on Flaticon" width=70 align=right prefers-color-scheme: dark>
+# SQL Repository <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/englands/SQL/blob/main/SQL-icon-white.svg" alt="SQL Icon by meaicon on Flaticon" width=70 align=right>  <source media="(prefers-color-scheme: light)" srcset="https://github.com/englands/SQL/blob/main/SQL-icon-black.svg" alt="SQL Icon by meaicon on Flaticon" width=70 align=right>  <img alt="SQL Icon by meaicon on Flaticon." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> </picture>
 
 This repository demonstrates my learning journey with Structured Query Language (SQL).
