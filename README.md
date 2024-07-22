@@ -1,4 +1,3 @@
-<div style="display: flex; justify-content: flex-end;">
   # SQL Repository
   <picture>
     <source srcset="https://github.com/englands/SQL/blob/main/SQL-icon-black.svg" media="(prefers-color-scheme: light)">
