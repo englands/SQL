@@ -1,6 +1,6 @@
 <picture>
-  <source srcset="https://github.com/englands/SQL/blob/main/SQL-icon-white.svg" media="(prefers-color-scheme: light)">
-  <img src="https://github.com/englands/SQL/blob/main/SQL-icon-black.svg" width=70 align=right alt="Your logo description">
+  <source srcset="SQL-icon-white.svg" media="(prefers-color-scheme: light)">
+  <img src="SQL-icon-black.svg" width="70" alt="Your logo description">
 </picture>
 
 # SQL Repository
