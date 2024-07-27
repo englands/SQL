@@ -1,9 +1,3 @@
-# SQL Repository
-<picture>
-  <source srcset="SQL-icon-white.svg" media="(prefers-color-scheme: light)">
-  <img src="SQL-icon-black.svg" width=70 align=right alt="Your logo description">
-</picture>
-
-
+# SQL Repository <img src="https://github.com/englands/SQL/blob/main/sql-svgrepo-com.svg" alt="SQL Icon" width=70 align=right>
 
 This repository demonstrates my learning journey with Structured Query Language (SQL). I first learned about SQL through my Database Administration and Design course while enrolled at the University of South Florida during my undergraduate degree. I loved learning about it so much that I have been inspired to continue my learning, create projects, and hopefully earn professional certifications. My class used Microsoft Powershell and SQL Server Management Studio (SSMS), but I am hoping to familiarize myself with as many systems as possible.
